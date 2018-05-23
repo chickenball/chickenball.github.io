@@ -1,0 +1,14 @@
+---
+layout: post
+title: hello my english name is ellen
+date: 2013-06-01 01:42:00
+homepage: https://github.com/muan/scribble
+download: https://github.com/muan/scribble/archive/master.zip
+demo: http://scribble.muan.co/2013/05/06/scribble-the-jekyll-theme/
+author: Mu-An Chiou
+thumbnail: scribble.png
+license: MIT License
+license_link: https://github.com/muan/scribble/blob/master/LICENSE
+---
+
+hi hi hi hi ;)
